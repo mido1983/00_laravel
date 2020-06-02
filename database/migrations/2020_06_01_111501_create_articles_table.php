@@ -20,6 +20,7 @@ class CreateArticlesTable extends Migration
     }
 
     /**
+     
      * Reverse the migrations.
      *
      * @return void
